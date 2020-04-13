@@ -1,0 +1,17 @@
+{
+  "name": "tool.less",
+  "version": "1.0.0",
+  "description": "tool of less",
+  "main": "index.less",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reset",
+    "less",
+    "css",
+    "resetcss"
+  ],
+  "author": "artiely",
+  "license": "MIT"
+}
