@@ -9,7 +9,7 @@ npm i tool.less
 @import 'tool.less'
 
 ```
-注意值支持在less的上下文中使用
+注意只支持在less的上下文中使用
 ## 常见方法
 左右浮动及清浮动
 ```less
