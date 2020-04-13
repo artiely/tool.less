@@ -1,6 +1,6 @@
 {
   "name": "tool.less",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tool of less",
   "main": "index.less",
   "scripts": {
@@ -13,5 +13,13 @@
     "resetcss"
   ],
   "author": "artiely",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://https://github.com/artiely/tool.less/issues"
+  },
+  "homepage": "https://https://github.com/artiely/tool.less#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/artiely/tool.less.git"
+  }
 }
