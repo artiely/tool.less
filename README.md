@@ -1,5 +1,5 @@
 #   tool.less
-> 一个自己常用的less工具集
+> 一个自己常用的less工具集,内置reset.css
 ## 安装
 ```sh
 npm i tool.less
@@ -9,7 +9,7 @@ npm i tool.less
 @import 'tool.less'
 
 ```
-注意值支持在less的上下文中使用
+注意只支持在less的上下文中使用
 ## 常见方法
 左右浮动及清浮动
 ```less
